@@ -1,6 +1,6 @@
 {
   "name": "Machine Learning Study Note",
   "tagline": "Machine Learning 스터디를 진행하면서 얻은 지식과 자료를 공유",
-  "body": "# ml_study_note\r\nMachine Learning 스터디를 진행하면서 얻은 지식과 자료를 공유\r\n\r\n틀린 부분, 보충할 점, 개선할 점이 보인다면 언제든지 Pull Request를 날려주세요!\r\n\r\n## Study Note\r\n스터디를 진행한 후에 주제에 관한 간략한 정리와 관련 질문 답변을 적어두었습니다.\r\n아래의 링크를 클릭하여 자세히 볼 수 있습니다. \r\n\r\n### [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)\r\n\r\n[Lec14 Videos, Unsupervised Learning](/cs231n_lec14_video_unsupervised.md)\r\n\r\n### [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)\r\n\r\n",
+  "body": "# ml_study_note\r\nMachine Learning 스터디를 진행하면서 얻은 지식과 자료를 공유\r\n\r\n틀린 부분, 보충할 점, 개선할 점이 보인다면 언제든지 Pull Request를 날려주세요!\r\n\r\n## Study Note\r\n스터디를 진행한 후에 주제에 관한 간략한 정리와 관련 질문 답변을 적어두었습니다.\r\n아래의 링크를 클릭하여 자세히 볼 수 있습니다. \r\n\r\n### [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)\r\n\r\n[Lec14 Videos, Unsupervised Learning](https://github.com/insikk/ml_study_note/blob/master/cs231n_lec14_video_unsupervised.md)\r\n\r\n### [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)\r\n\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
