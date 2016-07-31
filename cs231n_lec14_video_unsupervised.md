@@ -3,11 +3,9 @@
 
 ## 스터디 자료
 
-[cs231n lecture slide lec14](http://cs231n.stanford.edu/slides/winter1516_lecture14.pdf)
+[1] [cs231n lecture slide lec14](http://cs231n.stanford.edu/slides/winter1516_lecture14.pdf)
 
-아래의 블로그에도 관련 내용이 정리되어 있습니다.
-
-[Machine Learning 스터디 (19) Deep Learning - RBM, DBN, CNN](http://sanghyukchun.github.io/75/)
+[2] [Machine Learning 스터디 (19) Deep Learning - RBM, DBN, CNN](http://sanghyukchun.github.io/75/)
 
 ## 키워드
 
@@ -34,3 +32,5 @@ Autoencoder가 요즈음(2016년) 들어서 많이 안쓰이는 이유는?
 > 이후에 fine-tuning 과정을 거쳐 완성된 classifier를 만든다. 
 > 현재도 labeled된 데이터가 부족하다면 pre-training의 아이디어를 시도해 볼 수 있겠다. 
 >
+>> 자료 [2]에 따르면 "NIPS 2006에 발표된 Bengio 교수 연구팀의 Greedy layer-wise training of deep networks 연구와 NIPS 2007에 발표된 Hinton 교수 연구팀의 A fast learning algorithm for deep belief nets 두 논문을 통해 제안되었던 unsupervised pretraining method"가 있으며, "이 부분은 더 이상 practical usage로 사용되지는 않지만, deep learning의 거의 첫 번째 연구결과라고 해도 좋을 정도로 의미있는 연구결과" 이므로 알아둘만한 방법이라고 한다.
+ 
