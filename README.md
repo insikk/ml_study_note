@@ -9,7 +9,7 @@ Machine Learning 스터디를 진행하면서 얻은 지식과 자료를 공유
 
 ### [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
 
-[Lec14 Videos, Unsupervised Learning](/cs231n_lec14_video_unsupervised.md)
+[Lec14 Videos, Unsupervised Learning](https://github.com/insikk/ml_study_note/blob/master/cs231n_lec14_video_unsupervised.md)
 
 ### [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
 
