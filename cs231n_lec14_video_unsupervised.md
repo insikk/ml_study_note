@@ -1,25 +1,26 @@
-# 스터디 주제
+# ConvNets for videos, Unsupervised learning
 
-* ConvNets for videos
-* Unsupervised learning
 
-# 스터디 자료
+## 스터디 자료
 
-http://cs231n.stanford.edu/slides/winter1516_lecture14.pdf
+[cs231n lecture slide lec14](http://cs231n.stanford.edu/slides/winter1516_lecture14.pdf)
 
-# 키워드
+아래의 블로그에도 관련 내용이 정리되어 있습니다.
 
-## Videos
+[Machine Learning 스터디 (19) Deep Learning - RBM, DBN, CNN](http://sanghyukchun.github.io/75/)
+
+## 키워드
+
+### Videos
 
 Optical Flow, Spatio-Temporal ConvNets, 3D ConvNets, GRU-RCN
 
-## Unsupervised Learning
+### Unsupervised Learning
 
 Autoencoder, Variational Autoencoder, Generative Adversarial Networks
 
 
-# 질문과 답변
-
+## 질문과 답변
 
 Autoencoder가 요즈음(2016년) 들어서 많이 안쓰이는 이유는?
 > 두 가지 이유가 존재하는데 다음과 같다.
