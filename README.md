@@ -24,5 +24,8 @@ NLP 관련 스터디를 진행한 후에 주제에 관한 간략한 정리와 �
 아래의 링크를 클릭하여 정리한 노트를 자세히 볼 수 있습니다. 
 
 * [Lec02 Simple Word Vector representations, word2vec](https://github.com/insikk/ml_study_note/blob/master/cs224d_lec02_word_vec_representation.md)
+* [Lec06 Neural Networks Tips and Tricks, Recurrent Neural Networks](https://github.com/insikk/ml_study_note/blob/master/cs224d_lec06_nn_tricks_rnn_intro.md) 
+
+
 
 
